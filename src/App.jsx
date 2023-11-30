@@ -50,3 +50,4 @@ export default function Board() {
 }
 
 ///https://react.dev/learn/tutorial-tic-tac-toe
+///https://hygraph.com/blog/routing-in-react
